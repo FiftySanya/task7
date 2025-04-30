@@ -1,0 +1,3 @@
+FreeBSD learning
+Unix memory
+freebsd grep command
